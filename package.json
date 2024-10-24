@@ -1,0 +1,20 @@
+{
+  "name": "fwk4-23-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "mysql2": "^3.11.3",
+    "node-fetch": "^2.7.0"
+  }
+}
