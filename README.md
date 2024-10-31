@@ -20,13 +20,13 @@ A server handling GDPR request for users, etc..
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hallstrom91/fwk4-23-domain.git
+git clone https://github.com/hallstrom91/fwk4-23-admin.git
 ```
 
 2. Enter cloned repository directory:
 
 ```bash
-cd fwk4-23-domain
+cd fwk4-23-admin
 ```
 
 3. Install required packages:
