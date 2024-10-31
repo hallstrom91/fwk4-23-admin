@@ -91,7 +91,8 @@ Retrieves user data including tasks, comments, and board memberships.
 - Requires JWT authentication and a valid CSRF token.
 - Request a CSRF token from `/csrf/token` endpoint before using this endpoint.
 
-**RESPONSE (200 - SUCCESS):** \*_Returns a PDF file with this information_
+**RESPONSE (200 - SUCCESS):**
+_Returns a PDF file with this information_
 
 ```JSON
 {
